@@ -20,9 +20,9 @@ Place this script where ever you want into under your system account filesystem 
 ### edit task descriptor
 
 In order to execute the script file mentionned above periodically, as root user, and then remove ALL '.DS_Store' files:
-1. edit the 'plist' file
-2. replace the {username} and {pathTo} variables so they match your MacOS X username, and above script installation path:
-3. edit the 'StartInterval' XML tag value if you want to modify the script executions time interval (default is 7200secs, e.g 2h)
+* edit the 'plist' file
+* replace the {username} and {pathTo} variables so they match your MacOS X username, and above script installation path:
+* edit the 'StartInterval' XML tag value if you want to modify the script executions time interval (default is 7200secs, e.g 2h)
 
 ### install task descriptor
 
