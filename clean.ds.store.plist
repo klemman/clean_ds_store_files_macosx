@@ -7,14 +7,14 @@
 
 		<key>ProgramArguments</key>
 		<array>
-		<string>/Users/klemman/bin/cleanDsStore.sh</string>
+		<string>/Users/{username}/{pathTo}/cleanDsStore.sh</string>
 		</array>
 
 		<key>StartInterval</key>
 		<integer>7200</integer>
 		
 		<key>StandardOutPath</key>
-		<string>/Users/klemman/bin/cleanDsStore.log</string>
+		<string>/Users/{username}/{pathTo}/cleanDsStore.log</string>
 		
 		<key>StandardErrorPath</key>
 		<string>/dev/null</string>
