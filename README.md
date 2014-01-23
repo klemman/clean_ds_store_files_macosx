@@ -6,7 +6,7 @@ Quick scripting files allowing to periodically clean ".DS_Store" files on MacOS 
 
 # Requirements
 
-No requirements in particular, except be on MAC OS X, and be able to launch sudo commands
+No requirements in particular, except be on MacOS X, and be able to launch sudo commands
 
 
 # Install
