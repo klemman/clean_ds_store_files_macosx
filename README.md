@@ -1,4 +1,4 @@
-clean-ds-store-mac
+clean_ds_store_files_macosx
 ==================
 
 Quick scripting files allowing to periodically clean ".DS_Store" files on MacOS X, using a 'launchd' daemon task (http://en.wikipedia.org/wiki/.DS_Store)
